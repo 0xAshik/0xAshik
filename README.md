@@ -3,13 +3,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering;University+of+Asis+Pacific;Competitive+Programmer+at+codechef;Capture+The+Flag+player;"></a>
 </p>
 <br>
-<h2 align="center">👦 Github Stats:</h2>
+<h2 align="left">👦 Github Stats:</h2>
 
-<div align="center">
+<div align="left">
 
 ![profile visit](https://komarev.com/ghpvc/?username=0xashik)
 </div>
+<p align="left"> <a href="https://twitter.com/0xashik" target="blank"><img src="https://img.shields.io/twitter/follow/0xashik?logo=twitter&style=for-the-badge" alt="0xashik" /></a> </p>
 <br>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 ## :sassy_man: Who am I? (Breifly):
