@@ -2,19 +2,17 @@
 <p align="center" justyfi="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering;University+of+Asis+Pacific;Competitive+Programmer+at+codechef;Capture+The+Flag+player;"></a>
 </p>
+<br>
+<h2 align="center">### 👦 Github Stats:</h2>
 
+<div align="center">
 
+![profile visit](https://komarev.com/ghpvc/?username=0xashik)
+</div>
 <br>
 
-<!-- <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
-	</a>
-</p> -->
 
-
-## :sassy_man:  About me
+## :sassy_man: Who am I? (Breifly):
 - :school: I am a `Student` at Department of Computer Science and Engineering at University of Asia Pacific
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces` and `Codechef`
