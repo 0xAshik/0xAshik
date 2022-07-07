@@ -136,8 +136,6 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAshik&theme=merko" />
 </p>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAshik&layout=compact)](https://github.com/0xAshik/github-readme-stats)
-
 <br>
 <div align="center">
   <img  src="https://github.com/0xAshik/GitubSVGs/blob/main/grid-snake.svg"
