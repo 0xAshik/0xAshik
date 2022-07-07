@@ -19,7 +19,6 @@
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces` and `Codechef`
 - :computer: `Capture the flag` player
-- :student: I’m currently learning: `Computer Science and Engineering`
 - :nerd_face: Always `learning new things`
 
 <br>
