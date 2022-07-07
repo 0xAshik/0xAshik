@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering;University+of+Asis+Pacific;Competitive+Programmer+at+codechef;Capture+The+Flag+player;"></a>
 </p>
 <br>
-<h2 align="center">### 👦 Github Stats:</h2>
+<h2 align="center">👦 Github Stats:</h2>
 
 <div align="center">
 
