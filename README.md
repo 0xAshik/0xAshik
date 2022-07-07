@@ -128,12 +128,18 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>	  
 </p>
-
 <br/>
+
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=0xAshik&show_icons=true&theme=merko" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAshik&theme=merko" />
+</p>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAshik&layout=compact)](https://github.com/0xAshik/github-readme-stats)
+
+<br>
 <div align="center">
   <img  src="https://github.com/0xAshik/GitubSVGs/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
-Credits: [0xAshik](https://github.com/0xAshik)
-
-Last Edited on: 07/07/2022
